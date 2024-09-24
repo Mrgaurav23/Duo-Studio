@@ -122,8 +122,8 @@ menu.addEventListener("click",function(){
       trigger:".page2",
       scroller:".main",
       // markers:true,
-      start:"top -5%",
-      end:"top -3%",
+      start:"top 0%",
+      end:"top 3%",
     }
   })
   
@@ -136,8 +136,8 @@ menu.addEventListener("click",function(){
       trigger: ".page4",
       scroller: ".main",
       // markers:true,
-      start:"top -5%",
-      end:"top -3%",
+      start:"top 0",
+      end:"top 3%",
       scrub:3
     }
   })
